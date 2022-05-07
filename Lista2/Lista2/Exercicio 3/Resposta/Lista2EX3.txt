@@ -1,0 +1,2 @@
+//Nesse tipo de camera as coordenadas dos vertices correspondem as coordenadas  em pixel da tela. Essa configuração pode ser 
+util em jogos 2D por ser mais intuitiva.
